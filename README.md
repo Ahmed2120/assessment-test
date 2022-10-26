@@ -1,6 +1,6 @@
 # assessment
 
-### Type Done in textField to navigate to home page.
+### Type "Done" in textField to navigate to home page.
 
 ## Getting Started
 
